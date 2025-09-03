@@ -2,7 +2,7 @@
 ### Observing the Ocean: Measurements and Instrumentation
 #### Fall 2025
 
-Materials and code for EPS/ESE 135 data visualization & analysis assignments will be available in this Github repository. The course syllabus and other information can be found on the Canvas page. This page includes some tips for setting up Python and some helpful resources &mdash; if you have different suggestions, or if you find other resources that you find especially helpful, please share them with me and I'll update this page!
+Materials and code for EPS/ESE 135 data visualization & analysis assignments will be available in this Github repository. The course syllabus and other information can be found on the Canvas page. This page includes some tips for setting up Python and some helpful resources &mdash; if you have different suggestions, or if there are other resources that you find especially helpful, please share them with me and I'll update this page!
 
 
 #### Setting up Python
