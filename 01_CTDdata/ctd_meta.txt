@@ -1,0 +1,8 @@
+lat=65.5087
+lon=-38.2598
+time='14-Aug-2018 14:04:12'
+
+Units:
+- pressure [dbar]
+- temperature [deg C]
+- conductivity [mS/cm]
