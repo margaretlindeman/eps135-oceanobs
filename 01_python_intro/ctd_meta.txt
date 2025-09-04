@@ -5,4 +5,4 @@ time='14-Aug-2018 14:04:12'
 Units:
 - pressure [dbar]
 - temperature [deg C]
-- conductivity [mS/cm]
+- salinity [psu]

@@ -1,0 +1,6 @@
+lat=60.02905
+lon=-42.43153
+
+Units:
+- pressure [dbar]
+- temperature [deg C]

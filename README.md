@@ -11,11 +11,14 @@ If you don't already have Python set up on your machine, I recommend installing 
 It's good practice to maintain separate Python environments for different projects, which may require different versions of certain libraries or various packages with incompatible dependencies. You can create an environment that includes the packages needed for these assignments from the `environment.yaml` file in this repo by [following the steps here](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) or using the _Import_ button under the _Environments_ tab in Anaconda Navigator.
 
 
+#### Getting started with Python
+If you are new to Python, I strongly recommend this thorough primer from [Project Pythia](https://foundations.projectpythia.org/preamble/how-to-use/), which covers the foundational skills and key Python packages that you are likely to use in earth science data analysis. It's great either to work through systematically or to use as a reference as needed. They also offer more advanced, specialized [cookbooks](https://cookbooks.projectpythia.org/) for certain applications.
+
 #### Python resources
-There are many excellent Python resources around the internet that you may find useful, including:
+There are many other excellent Python resources around the internet that you may find useful, including:
 - [Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/01-intro.html), which will introduce you to basic coding principles and Python syntax. If you have not done much or any coding previously, this is a nice first stop. (In addition to programming in Python, they have [open-source materials](https://software-carpentry.org/lessons/) on how to use the Unix shell/Terminal and version control with Git, all of which I'd recommend if you're interested in developing those skills further!)
-- [Project Pythia](https://foundations.projectpythia.org/preamble/how-to-use/), which covers the foundational skills and key Python packages that you are likely to use in earth science data analysis. They also have more advanced, specialized [cookbooks](https://cookbooks.projectpythia.org/) for certain applications.
 - [ClimateMatch Academy](https://comptools.climatematch.io/tutorials/intro.html), which is an open-source climate-focused data science course with videos and hands-on data examples. These can be worked through in order as a structured course, or you can identify modules that cover methods you're interested in applying to your own work.
+- [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - If you have previously worked in Matlab, you may find this [cheat sheat](https://cheatsheets.quantecon.org/) helpful. It provides Python "translations" for some basic Matlab operations and syntaxes. (A key point not covered here: Matlab indexing starts at 1 and Python indexing starts at 0!)
 
 Generative AI chatbots can save you a lot of time with certain types of coding tasks, but the code they generate can contain errors. It's important to develop some basic understanding of how Python works so that you can identify issues and debug code that you get from outside sources.
