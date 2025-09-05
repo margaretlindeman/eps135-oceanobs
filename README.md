@@ -20,5 +20,20 @@ There are many other excellent Python resources around the internet that you may
 - [ClimateMatch Academy](https://comptools.climatematch.io/tutorials/intro.html), which is an open-source climate-focused data science course with videos and hands-on data examples. These can be worked through in order as a structured course, or you can identify modules that cover methods you're interested in applying to your own work.
 - [Jupyter notebook tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - If you have previously worked in Matlab, you may find this [cheat sheat](https://cheatsheets.quantecon.org/) helpful. It provides Python "translations" for some basic Matlab operations and syntaxes. (A key point not covered here: Matlab indexing starts at 1 and Python indexing starts at 0!)
+- All of the code libraries you are using have extensive online documentation that will help you determine the necessary inputs and outputs for each function, etc. Google is a great way to find this information!
 
-Generative AI chatbots can save you a lot of time with certain types of coding tasks, but the code they generate can contain errors. It's important to develop some basic understanding of how Python works so that you can identify issues and debug code that you get from outside sources.
+
+#### If you are stuck...
+
+1. If you can, ask a classmate first! This will help you both learn.
+
+2. If you Google the issue or the error that you are running into, you can often find forum posts from people who dealt with a similar issue in the past, which can be helpful.
+
+3. If you're still stuck, email me the details of your issue or set up a meeting!
+
+4. Generative AI chatbots can save you time with certain types of coding tasks, but the code they generate can contain errors. It's important to develop some basic understanding of how Python works so that you can identify issues and debug code that you get from outside sources. The course AI policy also applies to these assignments: use AI only where explicitly permitted and disclose/document any such use. (I will do the same!)
+
+
+
+
+
