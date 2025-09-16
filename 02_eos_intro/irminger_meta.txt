@@ -1,0 +1,8 @@
+lat=59.3911
+lon=-36.2012
+time='22-Aug-2022 21:41:59'
+
+Units:
+- pressure [dbar]
+- conductivity [mS/cm]
+- temperature [deg C]
