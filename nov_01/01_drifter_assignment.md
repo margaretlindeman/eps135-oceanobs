@@ -9,17 +9,7 @@ You will be working with ocean surface drifter records deployed as part of the [
     * date/time of first observation (find this info in data files after step 3)
     * date/time of last observation
 
-2. Create a Jupyter notebook for this assignment. Here are the packages you will probably need to import:
-    
-    `import xarray as xr
-    import matplotlib.pyplot as plt
-    import matplotlib.dates as mdates
-    import numpy as np
-    import gsw`
-
-    `# we haven't used cartopy before in this course. There is some example code in Github showing you how to make a simple basemap using this package.
-    import cartopy.crs as crs
-    import cartopy.feature as cfeature`
+2. Create a Jupyter notebook for this assignment. See `map_plot_example.ipynb` for suggested packages to import.
 
 3. Use xarray to load both drifter netcdf files.
 
