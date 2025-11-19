@@ -35,7 +35,7 @@ Subpolar Gyre. For your reference you can find background information about this
 perpendicular to Greenland’s coast. These are called topographic troughs, and they usually
 coincide with large fjords that extend inland. One of the most prominent troughs is the Sermilik
 Trough located between 64.5-65.5N and 36-39W (you can [read more about the troughs around
-Greenland here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL083953)).
+Greenland here](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL083953) and see an example of how troughs steer surface currents in [Figure 8 of Nelson et al. 2025](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC022246)).
 
     Assuming the drifters are following the East Greenland Coastal Current (EGCC): 
 
