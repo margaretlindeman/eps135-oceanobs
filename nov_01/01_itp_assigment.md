@@ -1,6 +1,6 @@
-Your data set is the record from [Ice-Tethered Profiler (ITP) 121](https://www2.whoi.edu/site/itp/data/active-systems/itp-121/). Find more background information about Argo floats on the [ITP program website](https://www2.whoi.edu/site/itp/).
+Your data set is the record from [Ice-Tethered Profiler (ITP) 121](https://www2.whoi.edu/site/itp/data/active-systems/itp-121/). Find more background information about ITPs on the [ITP program website](https://www2.whoi.edu/site/itp/).
 
-1. From the above resources and your data file, compile a list of key metadata for the Argo float, including 
+1. From the above resources and your data file, compile a list of key metadata for the ITP, including 
     * ITP number
     * institution
     * instrumentation
@@ -14,7 +14,7 @@ Your data set is the record from [Ice-Tethered Profiler (ITP) 121](https://www2.
 
 4. Use gsw to calculate Absolute Salinity, Conservative Temperature, and potential density, and add these variables to the xarray dataset. You should [save this as a new Netcdf file](https://docs.xarray.dev/en/latest/generated/xarray.Dataset.to_netcdf.html) so that you don't have to repeat these calculations in future assignments.
 
-5. Plot the conservative temperature for the full float record (with time on the x-axis and pressure on the y-axis). You can use this basic syntax:
+5. Plot the conservative temperature for the full ITP record (with time on the x-axis and pressure on the y-axis). You can use this basic syntax:
 
     `fig,ax = plt.subplots()
     dataset.variable.plot(x='time',ax=ax)`
